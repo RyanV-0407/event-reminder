@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/vikra/Downloads/event-reminder/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/vikra/Downloads/event-reminder/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/vikra/Downloads/event-reminder/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\vikra\\Downloads\\event-reminder\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\vikra\\Downloads\\event-reminder\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/vikra/Downloads/event-reminder/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/vikra/Downloads/event-reminder/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/vikra/Downloads/event-reminder/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\vikra\\Downloads\\event-reminder\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

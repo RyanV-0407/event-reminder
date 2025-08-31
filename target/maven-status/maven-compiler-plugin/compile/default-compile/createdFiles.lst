@@ -1,0 +1,7 @@
+com\vicky\event\manager\ReminderManager.class
+com\vicky\event\ui\MainLayout.class
+com\vicky\event\model\Event.class
+com\vicky\event\EventReminderApplication.class
+com\vicky\event\ui\MainView.class
+com\vicky\event\repository\EventRepository.class
+com\vicky\event\ui\AboutView.class
