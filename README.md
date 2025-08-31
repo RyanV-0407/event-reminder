@@ -1,4 +1,11 @@
-📅 Event Manager System
+📅 Event Manager System  
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![Maven](https://img.shields.io/badge/Maven-Build-success-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green)
+![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue)
+
 
 A simple Spring Boot + Vaadin application to create, manage, and track events with ease.
 
@@ -83,4 +90,9 @@ Pull requests are welcome! If you’d like to contribute:
  • Commit changes
  
  • Submit a pull request
+
+
+ ---
+
+👨‍💻 Made with ❤️ by [Vikram Singh Rathour](https://github.com/RyanV-0407)
  
