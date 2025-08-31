@@ -1,10 +1,10 @@
 📅 Event Manager System  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Java](https://img.shields.io/badge/Java-17+-blue)
-![Maven](https://img.shields.io/badge/Maven-Build-success-brightgreen)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green)
-![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue)
+![Java](https://img.shields.io/badge/Java-17+-blue?logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-success-brightgreen?logo=apachemaven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue?logo=vaadin&logoColor=white)
 
 
 A simple Spring Boot + Vaadin application to create, manage, and track events with ease.
