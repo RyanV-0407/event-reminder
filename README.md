@@ -1,12 +1,16 @@
-📅 Event Manager System  
+📅 Event Manager System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Java](https://img.shields.io/badge/Java-17+-blue?logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-Build-success-brightgreen?logo=apachemaven&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-Build-success-brightgreen?logo=apachemaven&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot&logoColor=white)
 ![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue?logo=vaadin&logoColor=white)  
-[![Stars](https://img.shields.io/github/stars/RyanV-0407/event-manager-system?style=social)](https://github.com/RyanV-0407/event-manager-system/stargazers)
-[![Forks](https://img.shields.io/github/forks/RyanV-0407/event-manager-system?style=social)](https://github.com/RyanV-0407/event-manager-system/network/members)
+[![Stars](https://img.shields.io/github/stars/RyanV-0407/event-reminder?style=social)](https://github.com/RyanV-0407/event-reminder/stargazers)
+[![Forks](https://img.shields.io/github/forks/RyanV-0407/event-reminder?style=social)](https://github.com/RyanV-0407/event-reminder/network/members)
+[![Issues](https://img.shields.io/github/issues/RyanV-0407/event-reminder?style=flat)](https://github.com/RyanV-0407/event-reminder/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/RyanV-0407/event-reminder?style=flat)](https://github.com/RyanV-0407/event-reminder/pulls)
+
+
 
 
 A simple Spring Boot + Vaadin application to create, manage, and track events with ease.
