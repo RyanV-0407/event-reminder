@@ -4,7 +4,9 @@
 ![Java](https://img.shields.io/badge/Java-17+-blue?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-Build-success-brightgreen?logo=apachemaven&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green?logo=springboot&logoColor=white)
-![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue?logo=vaadin&logoColor=white)
+![Vaadin](https://img.shields.io/badge/Vaadin-Flow-blue?logo=vaadin&logoColor=white)  
+[![Stars](https://img.shields.io/github/stars/RyanV-0407/event-manager-system?style=social)](https://github.com/RyanV-0407/event-manager-system/stargazers)
+[![Forks](https://img.shields.io/github/forks/RyanV-0407/event-manager-system?style=social)](https://github.com/RyanV-0407/event-manager-system/network/members)
 
 
 A simple Spring Boot + Vaadin application to create, manage, and track events with ease.
