@@ -5,22 +5,29 @@ A simple Spring Boot + Vaadin application to create, manage, and track events wi
 🚀 Features
 
  • Create, update, and delete events
+ 
  • Set reminders and notifications
+ 
  • User-friendly Vaadin UI
 
 🛠️ Tech Stack
 
  • Java + Spring Boot
+ 
  • Vaadin
+ 
  • Maven
 
 ⚡ Run Locally
   cd event-reminder
+  
   mvn spring-boot:run
+  
   Open in browser: 👉 http://localhost:8080
 
 📦 Build for Production
 To create a production build, call `mvn clean package -Pproduction`.
+
 This will build a JAR file with all the dependencies and front-end resources,
 ready to be deployed. The file can be found in the `target` folder after the build completes.
 
@@ -36,13 +43,21 @@ Once the JAR file is built, you can run it using
   dependencies and resource files should be placed.
 
 event-manager-system/
+
 │── src/main/java/       # Java source code
+
 │   ├── com.example.*    # Application packages
+
 │   └── MainView.java    # Sample Vaadin view
+
 │
+
 │── src/main/resources/  # Config files & static resources
+
 │── frontend/            # Client-side dependencies
+
 │── pom.xml              # Maven project file
+
 
 
 📖Useful links
@@ -62,6 +77,10 @@ event-manager-system/
 Pull requests are welcome! If you’d like to contribute:
 
  • Fork the repo
+ 
  • Create a new branch (feature/new-feature)
+ 
  • Commit changes
+ 
  • Submit a pull request
+ 
