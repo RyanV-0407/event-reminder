@@ -1,20 +1,25 @@
-# My App
+📅 Event Manager System
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+A simple Spring Boot + Vaadin application to create, manage, and track events with ease.
 
-You can download a Vaadin app starter with additional configurations at [start.vaadin.com](https://start.vaadin.com) 
-(a visual tool for quickly generating Vaadin web apps that you can download and open in your IDE).
+🚀 Features
 
-## Running the application
-The project is a standard Maven project. To run it from the command line,
-type `mvn`, then open http://localhost:8080 in your browser.
+ • Create, update, and delete events
+ • Set reminders and notifications
+ • User-friendly Vaadin UI
 
-You can also import the project to your IDE of choice as you would with any
-Maven project. Read more on [how to set up a development environment for
-Vaadin projects](https://vaadin.com/docs/latest/guide/install) (Windows, Linux, macOS).
+🛠️ Tech Stack
 
-## Deploying to Production
+ • Java + Spring Boot
+ • Vaadin
+ • Maven
+
+⚡ Run Locally
+  cd event-reminder
+  mvn spring-boot:run
+  Open in browser: 👉 http://localhost:8080
+
+📦 Build for Production
 To create a production build, call `mvn clean package -Pproduction`.
 This will build a JAR file with all the dependencies and front-end resources,
 ready to be deployed. The file can be found in the `target` folder after the build completes.
@@ -23,14 +28,24 @@ Once the JAR file is built, you can run it using
 `java -jar target/myapp-1.0-SNAPSHOT.jar` (NOTE, replace 
 `myapp-1.0-SNAPSHOT.jar` with the name of your jar).
 
-## Project structure
+📂 Project structure
 
 - `MainView.java` in `src/main/java` is an example Vaadin view.
 - `src/main/resources` contains configuration files and static resources
 - The `frontend` directory in the root folder is where client-side 
   dependencies and resource files should be placed.
 
-## Useful links
+event-manager-system/
+│── src/main/java/       # Java source code
+│   ├── com.example.*    # Application packages
+│   └── MainView.java    # Sample Vaadin view
+│
+│── src/main/resources/  # Config files & static resources
+│── frontend/            # Client-side dependencies
+│── pom.xml              # Maven project file
+
+
+📖Useful links
 
 - Read the documentation at [vaadin.com/docs](https://vaadin.com/docs).
 - Follow the tutorials at [vaadin.com/tutorials](https://vaadin.com/tutorials).
@@ -41,3 +56,12 @@ Once the JAR file is built, you can run it using
 - Find Add-ons at [vaadin.com/directory](https://vaadin.com/directory).
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin/).
+
+  🤝 Contributing
+
+Pull requests are welcome! If you’d like to contribute:
+
+ • Fork the repo
+ • Create a new branch (feature/new-feature)
+ • Commit changes
+ • Submit a pull request
